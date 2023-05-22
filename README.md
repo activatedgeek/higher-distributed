@@ -1,6 +1,6 @@
 # Higher Distributed
 
-This is the supporting code repository for the article
+This is the supporting code repository for the article [Higher-order gradients in PyTorch, Parallelized](https://sanyamkapoor.com/kb/higher-order-gradients-in-pytorch-parallelized) by Sanyam Kapoor and Ramakrishna Vedantam.
 
 ## Setup
 
